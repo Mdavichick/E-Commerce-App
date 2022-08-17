@@ -2,7 +2,7 @@
 
 
 | Student Name | Student Email | GitHub Username | Position |
-|    :---:     |     :---:     |     :---:       |
+|    :---:     |     :---:     |     :---:       |     :---:       |
 | Michael Davichick      |      mdavichick@mail.sfsu.edu         |       Mdavichick          | |
 | Michael Almeda      |      malmeda@mail.sfsu.edu         |    malmeda             | |
 | William Rattan      |   wrattan@mail.sfsu.edu            |   wrattan              | |
