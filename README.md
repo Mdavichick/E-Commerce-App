@@ -1,5 +1,8 @@
 # E-Commerce App
-
+Full-stack responsive app using React, Node and Express that allows the
+SFSU community to buy, sell and exchange items among each other.
+Implemented using user-centered design and development, best software processes
+and teamwork practices.
 
 | Student Name | Student Email | GitHub Username | Position |
 |    :---:     |     :---:     |     :---:       |     :---:       |
